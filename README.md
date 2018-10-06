@@ -22,4 +22,4 @@ In order to use this project you'll have to:
 3. Run `yarn start`
 4. Upload or drag a photo and wait for your result.
 
-![example photo](https://imgur.com/UHhcEXA)
+![example photo](https://imgur.com/UHhcEXA.png)
